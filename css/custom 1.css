@@ -1,0 +1,32 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-inverse{
+	background-color: #0205A1
+}
+.navbar-inverse .navbar-brand{
+	color: #fff
+
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+	color: ##500a0a;
+	background: #0205A1
+}
+body{
+	color:#8ca7b9;
+}
+
+/* custom well */
+.well-lg{
+  padding: 30px;
+  border-radius: 6px;
+  background-color:  #0B118D;
+  color: #270504;
+  border-radius: 0px;
+
+}

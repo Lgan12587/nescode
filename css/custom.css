@@ -1,0 +1,49 @@
+body {
+  padding-top: 50px;
+  font-size: 20px;
+  font-style: italic;
+  color: #F9F1E4;
+  color: #f5ebeb;
+
+
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+/*Navhar brand*/
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 900;
+}
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+.navbar-inverse
+{
+background-color: #191B4E;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #191B4E;
+  }
+
+/* custom well */
+.well-lg{
+  padding: 24px;
+  border-radius: 6px;
+  background-color:#c6c6d0;
+  color: #191B4E;
+  border-radius: 0px;
+  border-radius-color:#000000;
+}
+
+
+.well-lg:hover{
+  background-color: #191B4E;
+  border-radius: 0px;
+}
